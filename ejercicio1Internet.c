@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main() {
   //! Declaración de variables
   //* Definición de Vehículos
   int cantidadTurismos, cantidadTodoterrenos;
